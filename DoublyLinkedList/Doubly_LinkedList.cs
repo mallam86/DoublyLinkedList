@@ -15,7 +15,7 @@ namespace DoublyLinkedList
             public Node prevNode;
         }
 
-        Node headNode;
+        Node headNode; 
         Node tailNode;
 
         public int Size { get; set; }

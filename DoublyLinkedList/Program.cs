@@ -20,7 +20,7 @@ namespace DoublyLinkedList
 
             doubly_LinkedList.PrintList();
 
-
+             
             Console.WriteLine();
             Console.WriteLine("Size: " + doubly_LinkedList.Size);
 
